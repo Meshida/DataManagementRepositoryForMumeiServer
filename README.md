@@ -1,0 +1,2 @@
+# DataManagementRepositoryForMumeiServer
+無名鯖アプリデータ管理用リポジトリです。
