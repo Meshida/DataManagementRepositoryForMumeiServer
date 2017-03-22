@@ -15,21 +15,22 @@
   "pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/CropperOutput1461229515.jpg"
 }
 /*
-*
-[isopen_status template]
-  "通常開放期間(2017/00/00 現在)"
-  "ベータテスト実施中(2017/00/00 現在)"
-  "イベント開催中(2017/00/00 現在)"
+---------------------------------------------------
+*isopen_status template
+  -"通常開放期間(2017/00/00 現在)"
+  -"ベータテスト実施中(2017/00/00 現在)"
+  -"イベント開催中(2017/00/00 現在)"
 
-[isopen_color colorlist]
-  "normal" //lime green
-  "event" //orange
-  "stop" //red
-  "blue"
-  "black"
+*isopen_color colorlist
+  -"normal" //lime green
+  -"event" //orange
+  -"stop" //red
+  -"blue"
+  -"black"
 
-[TODO]
+*TODO
   -custom color
   -add template
-*
+  -slideshow images
+---------------------------------------------------
 */
