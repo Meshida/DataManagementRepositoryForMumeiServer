@@ -1,6 +1,6 @@
 {
   "isopen": {
-    "color": "event"
+    "color": "event",
     "status": "ベータテスト実施中(2017/3/20 現在)",
     "last": "2017.04.01",
     "info": "人狼ゲームがオープン！\n人の心をつかさどり、あざむき、勝利を奪い取れ！\n詳細はコミュニティで！"
@@ -13,12 +13,12 @@
 }
 /*
 *
-["isopen"->"status" template]
+[isopen_status template]
   "通常開放期間(2017/00/00 現在)"
   "ベータテスト実施中(2017/00/00 現在)"
   "イベント開催中(2017/00/00 現在)"
 
-["isopen"->"color" colorlist]
+[isopen_color colorlist]
   "normal" //lime green
   "event" //orange
   "stop" //red
