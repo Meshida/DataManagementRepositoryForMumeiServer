@@ -15,7 +15,8 @@
   },
   "version": {
     "code": 7,
-    "link": "http://htmlpreview.github.io/?https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/versioninfo.html"
+    "link": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/update.txt",
+    "name": "1.0.b4"
   },
   "pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/mumei.png"
 }
