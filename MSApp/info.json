@@ -13,6 +13,10 @@
       "img": "null"
     }
   },
+  "version": {
+    "code": 7,
+    "link": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/versioninfo.html"
+  },
   "pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/mumei.png"
 }
 
