@@ -14,19 +14,19 @@
     }
   },
   "version": {
-    "code": 10,
+    "code": 9,
     "link": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/update.txt",
-    "name": "update_test_version"
+    "name": "b0.0.1"
   },
-  "pic": ""
+  "pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/mumei.png"
 }
 
 /*
 ---------------------------------------------------
 *isopen_status template
-  -"通常開放期間(2017/00/00 現在)"
-  -"ベータテスト実施中(2017/00/00 現在)"
-  -"イベント開催中(2017/00/00 現在)"
+  -"通常開放期間(2017.00.00 現在)"
+  -"ベータテスト実施中(2017.00.00 現在)"
+  -"イベント開催中(2017.00.00 現在)"
 
 *isopen_color colorlist
   -"normal" //lime green
@@ -44,4 +44,3 @@
   -update notifaction
 ---------------------------------------------------
 */
-  /*,"pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/mumei.png"*/
