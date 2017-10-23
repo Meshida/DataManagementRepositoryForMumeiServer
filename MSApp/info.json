@@ -17,8 +17,7 @@
     "code": 10,
     "link": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/update.txt",
     "name": "update_test_version"
-  },
-  /*"pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/mumei.png"*/
+  }
 }
 
 /*
@@ -44,3 +43,4 @@
   -update notifaction
 ---------------------------------------------------
 */
+  /*,"pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/mumei.png"*/
