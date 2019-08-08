@@ -1,22 +1,22 @@
 {
   "isopen": {
     "color": "event",
-    "status": "テスト開放実施中(2018.5.31 現在)",
-    "info": "新無名鯖が始動！\n動作の早いサーバーで楽しむRPG生活を体感しよう！\n詳細はコミュニティで！"
+    "status": "テスト開放実施中(2019.8.9 現在)",
+    "info": "無名鯖(生活)のロビーを開発中！\n手伝ってくれる方募集中！"
   },
   "news": {
-    "date": "(最終更新 2018.5.31)",
-    "content": "・無名鯖解放時に通知が来るようになりました！\n・新無名鯖(生活)がオープンしました！",
+    "date": "(最終更新 2019.8.9)",
+    "content": "・無名鯖解放時に通知が来るようになりました！\n・無名鯖(生活)がテスト段階に入りました\n・無名鯖公式Discordができました！",
     "link": {
-      "text": "コミュニティはこちら",
-      "url": "https://plus.google.com/communities/114709151135347974452",
+      "text": "公式Discord",
+      "url": "https://discord.gg/zpt49cs",
       "img": "null"
     }
   },
   "version": {
-    "code": 9,
+    "code": 10,
     "link": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/update.txt",
-    "name": "b0.0.1"
+    "name": "b0.1"
   },
   "pic": "https://raw.githubusercontent.com/Meshida/DataManagementRepositoryForMumeiServer/master/MSApp/mumei.png"
 }
